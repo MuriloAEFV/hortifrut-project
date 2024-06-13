@@ -17,10 +17,10 @@ export default function Home() {
     <div className={styles.frutas_container}>
     <ul>
         {frutas.map(item => (
-          <li>
+          <li key={item.id}>
             <h2>{item.name}</h2>
             <p>{item.preco}</p>
-            <img src={item.image}/>
+            <Image src={item.image} alt={item.name} width={250} height={250} />
             
           </li>
         ))}
