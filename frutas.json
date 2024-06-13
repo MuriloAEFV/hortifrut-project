@@ -1,0 +1,35 @@
+[
+{
+"name": "Figo seco",
+"preco": 10.99,
+"image": "/images/figo.jpg"
+},
+{
+"name": "Melao Cantalupo (Meloa)",
+"preco": 10.99,
+"image": "/images/melao.jpg"
+},
+{
+"name": "Macadâmia (Castanha)",
+"preco": 10.99,
+"image": "/images/macadania castanha.jpg"
+
+
+},
+{
+"name": "Pequi",
+"preco": 10.99,
+"image": "/images/pequi.jpg"
+
+},
+{
+"name": "Tomate",
+"preco": 10.99,
+"image": "/images/tomate.jpeg"
+},
+{
+"name": "Banana",
+"preco": 10.99,
+"image": "/images/bananas.jpg"
+}
+]
